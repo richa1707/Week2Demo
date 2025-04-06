@@ -1,0 +1,6 @@
+#value of x
+x <-2
+x
+#value of y
+y <-5
+y
